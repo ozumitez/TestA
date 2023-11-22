@@ -1,0 +1,140 @@
+.index_menu {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(211, 211, 211);
+    padding: 18px;
+}
+
+body {
+    background-color: dimgrey;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 32px;
+    font-weight: bolder;
+    color: black;
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: x-large;
+    font-weight: normal;
+    color: black;
+    text-align: left;
+}
+
+p   {
+    font-family: monospace;
+    font-size: medium;
+    font-weight: normal;
+    color: black;
+    text-align: left;
+}
+
+ul  {
+    margin: 5px;
+}
+
+li  {
+    margin-top: 5px;
+    font-family: 'Lucida Sans';
+}
+
+.logo {
+    width: 350px;
+    display: block
+}
+
+.avatar {
+    display: block;
+    width: auto;
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.buttons_body{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.top_button {
+    display: block;
+    background-color: brown;
+    width: 150px;
+    height: 150px;
+}
+.mid_button {
+    display: block;
+    background-color: darkslateblue;
+    width: 150px;
+    height: 150px;
+}
+.bottom_button {
+    display: block;
+    background-color: dimgrey;
+    width: 150px;
+    height: 150px;
+}
+
+.rock {
+    display: block;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.p_cards {
+    margin: 0;
+    font-family: 'Lucida Sans';
+    font-weight: bolder;
+}
+
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.p_letter {
+    font-size: 18px;
+    font-family: monospace;
+}
+
+.book {
+    cursor: help;
+    margin: 0px;
+    text-decoration: none;
+}
+
+.deadtext {
+    font-size: 20px;
+    font-family: Trebuchet;
+    font-weight: bolder;
+    margin: 0%;
+}
+
+.goback {
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.a_goback {
+    text-decoration: none;
+    cursor: crosshair;
+}
