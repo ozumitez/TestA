@@ -1,5 +1,0 @@
-git_ignore
-.gitignore
-*.code-workspace
-.DS_Store
-test.html
