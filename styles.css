@@ -94,6 +94,12 @@ li  {
     font-weight: bolder;
 }
 
+.p_cafemenu {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
 /* Container holding the image and the text */
 .container {
     position: relative;
