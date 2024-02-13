@@ -1,4 +1,9 @@
 body {
-    background-color: rgb(114, 92, 92);}
-h1, h2, p {
-    text-align: center;}
+    background-color: burlywood;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+  }
+  
+  #menu {width:300px}
