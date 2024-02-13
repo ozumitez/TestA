@@ -1,6 +1,7 @@
 body 
 {
    background-image: url(assets/images/menu_background.jpg);
+   background-image:-webkit-linear-gradient()
 }
   
 h1, h2, p
@@ -12,4 +13,8 @@ h1, h2, p
 {
     width:80%;
     background-color: burlywood;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top:auto;
+    margin-bottom:auto;
 }
